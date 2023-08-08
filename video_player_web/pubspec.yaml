@@ -23,10 +23,10 @@ dependencies:
   flutter_web_plugins:
     sdk: flutter
   video_player_platform_interface: 
-    # git:
-    #   url: git@github.com:apieceofcode1801/plugins.git
-    #   ref: main
-    path: ../video_player_platform_interface
+    git:
+      url: https://github.com/Gnel-Sedrakyan-MOne/custom_bitrate_video_player.git
+      ref: main
+      path: video_player_platform_interface
 
 dev_dependencies:
   flutter_test:
